@@ -11,8 +11,4 @@ All data types are String. This is wyh I have converted between String, Date and
 Which was converted to date from the text the elapsed time was written to the table view.
 Also can perform scroll to all views.
 <h2>Screenshots</h2>
-![alt-text](https://github.com/mehmetcanseyhan/SwiftSocialMediaProfile/blob/master/ss1.png) </br>
-First Load </br>
-
-When By Time Segment Clicked </br>
-When Popularity Segment Clicked
+![alt-text](https://github.com/mehmetcanseyhan/SwiftSocialMediaProfile/blob/master/ss1.png)
