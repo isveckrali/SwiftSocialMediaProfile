@@ -2,7 +2,7 @@
 Useable user social media profiles design and code.
 
 <h2>Externally used libraries with Podfile</h2>
-<a href = "https://github.com/Alamofire/Alamofire">Alamofire  </a> provides data get from server.</br>
+<a href = "https://github.com/Alamofire/Alamofire">Alamofire  </a> fetch data from server.</br>
 <a href = "https://github.com/SDWebImage/SDWebImage">SDWebImage</a> provides image data get from server. </br>
 <a href = "https://github.com/scalessec/Toast-Swift">Toast Swift </a>provides to give warning text in components to user. 
 <h2>What have been done</h2>
