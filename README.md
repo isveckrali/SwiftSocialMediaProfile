@@ -6,7 +6,7 @@ Useable user social media profiles design and code.
 <a href = "https://github.com/SDWebImage/SDWebImage">SDWebImage</a> fetch image data from server. </br>
 <a href = "https://github.com/scalessec/Toast-Swift">Toast Swift </a>provides to give warning text in components to user. 
 <h2>What have been done</h2>
-Random incoming datas which from server table have sorted by popularity and by elapsed time descending.
+Random incoming data which from server table have sorted by popularity and by elapsed time descending.
 All data types are String. This is wyh I have converted between String, Date and Int when table view loading.
 Which was converted to date from the text the elapsed time was written to the table view.
 Also can perform scroll to all views.
